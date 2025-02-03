@@ -4,7 +4,7 @@ import "../styles/NavBar.css"
 function NavBar() {
     return <nav className="navbar">
         <div className="navbar-brand">
-            <Link to="/">Movie App by Ernesto</Link>
+            <Link to="/">Movie App <span style={{ fontSize: "0.8em" }}>by Ernesto</span></Link>
         </div>
         <div className="navbar-links">
             <Link to="/" className="nav-link">Home</Link>

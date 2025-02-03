@@ -45,3 +45,7 @@
     padding: 0.5rem;
   }
 }
+
+.author-text {
+  font-size: 0.8em; /* Makes the text 80% of its parent size */
+}
