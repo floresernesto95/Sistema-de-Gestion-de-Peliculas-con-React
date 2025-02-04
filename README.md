@@ -28,7 +28,7 @@ Desarrollé una aplicación web moderna y dinámica que permite a los usuarios e
 - Optimización del rendimiento mediante el uso eficiente de re-renders
 
 ## Demostración
-Sitio web: https://catalogopeliculas.vercel.app/
+**Sitio web**: https://catalogopeliculas.vercel.app/
 
 ## Objetivos alcanzados
 - Desarrollo de una aplicación web completa desde cero
