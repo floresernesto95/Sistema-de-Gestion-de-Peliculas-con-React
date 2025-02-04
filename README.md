@@ -7,6 +7,7 @@ Desarrollé una aplicación web moderna y dinámica que permite a los usuarios e
 - **Exploración intuitiva**: Interfaz de usuario limpia y responsive que muestra un catálogo de películas populares.
 - **Búsqueda en tiempo real**: Sistema de búsqueda que permite a los usuarios encontrar películas específicas de manera eficiente.
 - **Gestión de favoritos**: Implementación de un sistema que permite a los usuarios:
+
   - Marcar/desmarcar películas como favoritas
   - Visualizar su colección personal
   - Persistencia de datos mediante localStorage
